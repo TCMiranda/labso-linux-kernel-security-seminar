@@ -1,8 +1,8 @@
 # Linux kernel security
 ##### Plano de seminário para LABSO - Segurança no kernel do linux
 
-**Tiago de Carvalho Miranda**
-**Brunno**
+ Tiago de Carvalho Miranda
+ Brunno
 
 ---------
 
@@ -48,6 +48,7 @@ O objetivo prático do seminário é apresentar a estrutura de segurança utiliz
 ### Materiais utilizados
 
 ##### Links de interesse
+
 
   Linux Security HOWTO
 
