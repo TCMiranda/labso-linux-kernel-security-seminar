@@ -2,7 +2,6 @@
 ##### Plano de seminário para LABSO - Segurança no kernel do linux
 
 **Tiago de Carvalho Miranda**
-
 **Brunno**
 
 ---------
@@ -39,12 +38,12 @@ A partir dessa apresentação, esperamos desenvolver o assunto a ponto de exempl
 
 O objetivo prático do seminário é apresentar a estrutura de segurança utilizada hoje no Linux e introduzir alguns conceitos chave sobre seu funcionamento. Para isso, planejamos:
 
-1. Introdução histórica sobre o tema segurança no kernel.
-2. Introdução do modelo atual
-3. Principais sub temas dentro de segurança
-4. Exemplos práticos de falhas
-5. Introdução de modelos e propostas de melhorias
-6. Exemplos práticos de tecnologias atuais
+0. Introdução histórica sobre o tema segurança no kernel.
+0. Introdução do modelo atual
+0. Principais sub temas dentro de segurança
+0. Exemplos práticos de falhas
+0. Introdução de modelos e propostas de melhorias
+0. Exemplos práticos de tecnologias atuais
 
 ### Materiais utilizados
 
