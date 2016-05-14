@@ -1,8 +1,7 @@
 # Linux kernel security
 #### Plano de seminário para LABSO - Segurança no kernel do linux
 
- Tiago de Carvalho Miranda
- Brunno
+Tiago de Carvalho MirandaBrunno
 
 ---------
 
@@ -49,21 +48,20 @@ O objetivo prático do seminário é apresentar a estrutura de segurança utiliz
 
 ##### Links de interesse
 
-
-  Linux Security HOWTO
+Linux Security HOWTO
 
 * http://www.tldp.org/HOWTO/Security-HOWTO/index.html
 * http://www.tldp.org/HOWTO/Security-Quickstart-HOWTO/index.html
 
-  The Linux Kernel Module Programming Guide
+The Linux Kernel Module Programming Guide
 
 * http://linux.die.net/lkmpg/
 
-  The Linux Foundation - Security features review
+The Linux Foundation - Security features review
 
 * https://www.linux.com/learn/overview-linux-kernel-security-features#main-menu
 
-  SELinux security policy overview
+SELinux security policy overview
 
 * https://www.centos.org/docs/5/html/Deployment_Guide-en-US/rhlcommon-chapter-0001.html
 
